@@ -1,0 +1,29 @@
+[2021-07-05 11:40:21]: SDNE run.py[line:74] INFO  Train Epoch: 1 [1024/2405 (43%)]	Loss: 0.1759	
+[2021-07-05 11:40:21]: SDNE run.py[line:74] INFO  Train Epoch: 1 [2048/2405 (85%)]	Loss: 0.1747	
+[2021-07-05 11:40:22]: SDNE run.py[line:74] INFO  Train Epoch: 1 [2405/2405 (100%)]	Loss: 0.5101	
+[2021-07-05 11:40:32]: SDNE run.py[line:79] INFO  ====> Epoch: 1 Average loss: 0.2250
+[2021-07-05 11:40:32]: SDNE modelcheckpoint.py[line:47] INFO  save the best module where loss is 0.22502063901905212
+[2021-07-05 11:40:36]: SDNE run.py[line:74] INFO  Train Epoch: 2 [1024/2405 (43%)]	Loss: 0.1732	
+[2021-07-05 11:40:36]: SDNE run.py[line:74] INFO  Train Epoch: 2 [2048/2405 (85%)]	Loss: 0.1691	
+[2021-07-05 11:40:37]: SDNE run.py[line:74] INFO  Train Epoch: 2 [2405/2405 (100%)]	Loss: 0.5245	
+[2021-07-05 11:40:47]: SDNE run.py[line:79] INFO  ====> Epoch: 2 Average loss: 0.2236
+[2021-07-05 11:40:47]: SDNE modelcheckpoint.py[line:47] INFO  save the best module where loss is 0.22359949694849598
+[2021-07-05 11:40:51]: SDNE run.py[line:74] INFO  Train Epoch: 3 [1024/2405 (43%)]	Loss: 0.1739	
+[2021-07-05 11:40:52]: SDNE run.py[line:74] INFO  Train Epoch: 3 [2048/2405 (85%)]	Loss: 0.1650	
+[2021-07-05 11:40:52]: SDNE run.py[line:74] INFO  Train Epoch: 3 [2405/2405 (100%)]	Loss: 0.4684	
+[2021-07-05 11:41:02]: SDNE run.py[line:79] INFO  ====> Epoch: 3 Average loss: 0.2138
+[2021-07-05 11:41:02]: SDNE modelcheckpoint.py[line:47] INFO  save the best module where loss is 0.2138071865153164
+[2021-07-05 11:41:08]: SDNE run.py[line:74] INFO  Train Epoch: 4 [1024/2405 (43%)]	Loss: 0.1648	
+[2021-07-05 11:41:09]: SDNE run.py[line:74] INFO  Train Epoch: 4 [2048/2405 (85%)]	Loss: 0.1589	
+[2021-07-05 11:41:09]: SDNE run.py[line:74] INFO  Train Epoch: 4 [2405/2405 (100%)]	Loss: 0.4649	
+[2021-07-05 11:41:19]: SDNE run.py[line:79] INFO  ====> Epoch: 4 Average loss: 0.2068
+[2021-07-05 11:41:19]: SDNE modelcheckpoint.py[line:47] INFO  save the best module where loss is 0.20680819886142152
+[2021-07-05 11:41:24]: SDNE run.py[line:74] INFO  Train Epoch: 5 [1024/2405 (43%)]	Loss: 0.1534	
+[2021-07-05 11:41:25]: SDNE run.py[line:74] INFO  Train Epoch: 5 [2048/2405 (85%)]	Loss: 0.1565	
+[2021-07-05 11:41:25]: SDNE run.py[line:74] INFO  Train Epoch: 5 [2405/2405 (100%)]	Loss: 0.4376	
+[2021-07-05 11:41:35]: SDNE run.py[line:79] INFO  ====> Epoch: 5 Average loss: 0.1969
+[2021-07-05 11:41:35]: SDNE modelcheckpoint.py[line:47] INFO  save the best module where loss is 0.19687201168829588
+[2021-07-05 11:41:38]: SDNE run.py[line:94] INFO  Get embedding: [0/2405 (0%)]	
+[2021-07-05 11:41:39]: SDNE run.py[line:94] INFO  Get embedding: [1024/2405 (43%)]	
+[2021-07-05 11:41:39]: SDNE run.py[line:94] INFO  Get embedding: [714/2405 (30%)]	
+[2021-07-05 11:41:55]: SDNE run.py[line:178] INFO  score_n:{'micro': 0.5808997632202052, 'macro': 0.37087153012524093}
